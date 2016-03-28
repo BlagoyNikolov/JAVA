@@ -1,5 +1,5 @@
 # JAVA
-Course materials & problems for SoftAcad's Programming with Java. Starting November 2015.
+Course materials & problems for SoftAcad's Programming with Java. Starting April 2015.
 Course Schedule
 
 20.04 – Introduction to the course. Introduction of the participants. JRE, JDK, Eclipse IDE. Primitive data types. Main method. Console input and output. Boolean operators. If-else statement. Code blocks.
