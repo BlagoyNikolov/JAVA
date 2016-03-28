@@ -1,29 +1,31 @@
 # JAVA
-SoftAcad Homework assignments
+Course materials & problems for SoftAcad's Programming with Java. Starting November 2015.
+Course Schedule
 
-1. Presentation of the course and teachers. Primitive data types. If-else statement
-2. Cycles. While, for, do-while. Keywords break and continue
-3. Arrays. Declaration and initialization. Navigate and read from the console. Two-dimensional arrays
-4. Sorting array. Practical exercise of one-dimensional and two-dimensional arrays
-5. Strings. Introduction to the CMO. Classes, objects, methods
-6. References constructors. More about the use of methods
-7. Encapsulation of data. Access modifiers. Keyword final. Static fields and methods
-8. Practical exercise on the use of classes and methods.
-9. Inheritance of classes. Use the keyword super
-10. Interfaces abstract classes. polymorphism
-11. Practical exercise of everything learned so far
-12. Exceptions. Try-catch block. Hierarchy of exceptions
-13. Wrapped exceptions, finally block. Good practices in the use of exceptions
-14. Control. Examination of correct answers and a summary of lessons learned to date.
-15. Working with graphical components Swing. JOptionPane, JFrame, JPanel. Drawing in JPanel.
-16. Internal and anonymous classes. Processing events in a graphical user interface
-17. Layout manager-and and distribution of components in JPanel
-18. Practical exercise for working with graphical components
-19. Working with data streams and files. serialization
-20. Data Structures. Stack, Queue, List, Map, Set. hashing
-21. Generics, Autoboxing and autounboxing
-22. Threads and multithreaded programming
-23. Development of project assignments
-24. Development of project assignments
-25. Development of project assignments
-26. Presentation of projects and awarding certificates
+20.04 – Introduction to the course. Introduction of the participants. JRE, JDK, Eclipse IDE. Primitive data types. Main method. Console input and output. Boolean operators. If-else statement. Code blocks.
+22.04 – Loops: while, do-while, for. Break, Continue
+27.04 – Arrays: definition, declaration, initialization. Going through arrays. Compare and copying of arrays. Two-dimensional arrays.
+29.04 – Array sorting: bubble sort, selection sort. Array exercises.
+04.05 – Strings. Introduction to OOP. Classes and objects – definitions and differences. Class members, methods, calling methods.
+11.05 – References and objects in the memory. Static and dynamic memory. Constructors, methods, key word this.
+13.05 – Encapsulation. Data modifiers – private, public, default/package. Getters and Set-ters. Key word final. Static members and methods. Access to static/non-static members and methods from static/non-static context.
+18.05 – Classes and methods exercises.
+20.05 – Class inheritance. “Is a” and “Has a” connection. Data modifiers within inheritance. Key word super. Constructor chaining. Class hierarchy in java.
+25.05 – Interfaces. Abstract classes. Polymorphism. Overriding and overloading methods. Method signature. Compile time and runtime bindings. Casting – upcasting and down-casting. Final methods and classes.
+27.05 – Exercises. Development of SimpleNotepad and SecuredNotepad.
+01.06 – Exceptions. Stack and stack trace. Try-catch blocks. Exception hierarchy – Throwa-ble, Exception, RuntimeException, Error.
+03.06 – Chained exceptions. Finally block. Good practices using exceptions. Custom excep-tions. Using eclipse debugger.
+08.06 – Test
+10.06 – Swing, JOptionPane, JFrame, JPanel. Drawing in JPanel.
+15.06 – Nested classes – inner class, local class, anonymous class. User interface event han-dling.
+17.06 – Layout manager. FlowLayout, BorderLayout, GridLayout, BoxLayout, Boxes, null lay-out.
+22.06 – Exercises. Calculator with user interface.
+24.06 – Collections. Advantages and disadvantages of arrays. Stack, Queue, List, Set, and Map. Iterator. Comparator and Comparable. Trees. Hashing and hash tables. Collisions.
+29.06 – Auto boxing/unboxing. Generics. Bounded types. Wildcards.
+01.07 – File class. Streams. Reading and writing in file. Serialization.
+06.07 – Threads. Multi-thread programming.
+08.07 – Course projects development.
+13.07 – Course projects development.
+15.07 – Course projects development.
+20.07 – Course projects development.
+22.07 – Project presentations.
